@@ -1,0 +1,52 @@
+# Lista dos Projetos:
+
+- Projeto 1 - O Arquivo JS
+- Projeto 2 - Variáveis
+- Projeto 3 - Input Data
+- Projeto 4 - CSS Background
+- Projeto 5 - HTML Get Element
+- Projeto 6 - Arrays
+- Projeto 7 - Convertendo Celsius para Fahrenheit
+- Projeto 8 - Nota dos Alunos
+- Projeto 9 - Posso votar?
+- Projeto 10 - Calculadora de Porcentagens
+- Projeto 11 - Tópicos no HTML
+- Projeto 12 - Tables em HTML
+- Projeto 13 - Label e Input
+- Projeto 14 - Lista de Cores
+- Projeto 15 - Criando tópicos com JavaScript
+- Projeto 16 - Botão para trocar a cor
+- Projeto 17 - Background color
+- Projeto 18 - Adicionando CSS ao Botão
+- Projeto 19 - Adivinhe o Numero
+- Projeto 20 - Adicionando CSS ao Input
+- Projeto 21 - Operador Ternário
+- Projeto 22 - Utilizando o Switch e Case
+- Projeto 23 - O While Loop
+- Projeto 24 - Do While
+- Projeto 25 - Encontre o Erro
+- Projeto 26 - Encontre o Erro
+- Projeto 27 - Carregando uma imagem
+- Projeto 28 - Multiplas Imagens
+- Projeto 29 - Videos
+- Projeto 30 - Container
+- Projeto 31 - Gradiente
+- Projeto 32 - Borders em CSS
+- Projeto 33 - Cartão de visita
+- Projeto 34 - Counter
+- Projeto 35 - Stopwatch
+- Projeto 36 - Countdown 5 min
+- Projeto 37 - Contador de letras
+- Projeto 38 - Botões de Compartilhar
+- Projeto 39 - Lista em Search
+- Projeto 40 - Car Finance
+- Projeto 41 - Todo List
+- Projeto 42 - Calculadora Moderna
+- Projeto 43 - Popup
+- Projeto 44 - Conversor de moedas
+- Projeto 45 - Responsive Image Gallery
+- Projeto 46 - BMI
+- Projeto 47 - Data e hora
+- Projeto 48 - QuerySelectorConstruindo um Palindrome
+- Projeto 49 - Alarme
+- Projeto 50 - QR code
